@@ -1,0 +1,25 @@
+{
+  "name": "alto",
+  "version": "1.0.0",
+  "description": "Music app that connects communities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amywangg/ElevateHackathon.git"
+  },
+  "author": "Amy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amywangg/ElevateHackathon/issues"
+  },
+  "homepage": "https://github.com/amywangg/ElevateHackathon#readme",
+  "dependencies": {
+    "electron": "^3.0.0",
+    "email-validator": "^2.0.4",
+    "jquery": "^3.3.1",
+    "request": "^2.88.0"
+  }
+}

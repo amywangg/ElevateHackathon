@@ -1,0 +1,23 @@
+{
+  "name": "hackathon-elevate",
+  "version": "1.0.0",
+  "description": "App for TD",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amywangg/ElevateHackathon.git"
+  },
+  "author": "Amy Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amywangg/ElevateHackathon/issues"
+  },
+  "homepage": "https://github.com/amywangg/ElevateHackathon#readme",
+  "dependencies": {
+    "electron": "^3.0.0"
+  }
+}
